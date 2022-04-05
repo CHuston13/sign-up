@@ -1,0 +1,10 @@
+#frm{
+vertical-align: top;
+text-align: center;
+padding-left:20em ;
+
+}
+p{
+    display: flex;
+    flex-wrap: wrap;
+}
