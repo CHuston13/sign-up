@@ -1,10 +1,24 @@
-#frm{
-vertical-align: top;
-text-align: center;
-padding-left:20em ;
-
+body{
+    background-color: black;
+    color: white;
+    
 }
 p{
-    display: flex;
-    flex-wrap: wrap;
+   text-align: center;
+   padding-left: 20em;
+   
+
+   
+  
 }
+
+.container{
+ font-size: 25px;
+ color: black;
+ 
+}
+
+#frm{
+    background-color: white;
+    
+} 
